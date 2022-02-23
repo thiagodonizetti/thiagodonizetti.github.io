@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #00917C;
   text-decoration: underline;
 }
 
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #00917C; /*#343a40;*/
 }
 
 h1, .h1 {
@@ -4312,10 +4312,10 @@ input[type=button].btn-block {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: #f7f9f8a6; /* rgba(255, 255, 255, 0.5);*/
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: rgba(255, 255, 255, 0.75);
+  color: #00917C;/*rgba(255, 255, 255, 0.75);*/
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
@@ -6108,7 +6108,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0b332e !important;
+  background-color: #184d47 !important; /*#0b332e !important;*/
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9807,7 +9807,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0b332e !important;
+  color: #0b332e !important; /*#0b332e !important;*/
 }
 
 a.text-primary:hover, a.text-primary:focus {
